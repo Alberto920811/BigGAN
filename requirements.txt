@@ -1,5 +1,5 @@
 Flask==1.0
-numpy==1.18.1
+numpy==1.22.0
 pickleshare==0.7.5
 Pillow==7.0.0
 pylint==2.4.4
